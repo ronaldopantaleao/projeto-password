@@ -16,14 +16,8 @@ body {
     flex-direction: column;
 }
 
-h1{
-    color: #fff;
-    font-size: 56px;
-}
-
 .logo {
-    max-width: 600px;
-    margin-bottom: 24px;
+    max-width: 500px
 }
 
 .container-input {
