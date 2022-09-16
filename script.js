@@ -30,4 +30,3 @@ function copyPassword (){
     alert("Senha copiada com sucesso!")
     navigator .clipboard.writeText(novaSenha)
 }
-VTip1qWlc0GV8F2
